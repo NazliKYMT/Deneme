@@ -17,7 +17,10 @@
     "Product_Rating": 4.6,
     "Product_Reviews_Count": 4,
     "Expected_Categorys_Count": 153,
-    "Expected_Brand_Count": 82
+    "Expected_Brand_Count": 82,
+    "Product_Image_list": [
+        "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/1/c/1c02e368809587384266.jpg"
+    ]
   },
   {
     "Product_Id": "f54658c5d511195b6621a640fb743b1b",
@@ -37,7 +40,11 @@
     "Product_Rating": 4.3,
     "Product_Reviews_Count": 147,
     "Expected_Categorys_Count": 431,
-    "Expected_Brand_Count": 431
+    "Expected_Brand_Count": 431,
+      "Product_Image_list": [
+        
+    ]
+    
   },
   {
     "Product_Id": "cdf6b3387f8976c8e38ad150173dbb6d",
@@ -57,7 +64,10 @@
     "Product_Rating": 4.4,
     "Product_Reviews_Count": 58,
     "Expected_Categorys_Count": 0,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "424755c11c78b2b24ff13c675baf5d19",
@@ -77,7 +87,10 @@
     "Product_Rating": 5,
     "Product_Reviews_Count": 0,
     "Expected_Categorys_Count": 389,
-    "Expected_Brand_Count": 149
+    "Expected_Brand_Count": 149,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "f7f76573099db0058ef5264c35d9d02e",
@@ -97,7 +110,10 @@
     "Product_Rating": 4,
     "Product_Reviews_Count": 934,
     "Expected_Categorys_Count": 80,
-    "Expected_Brand_Count": 436
+    "Expected_Brand_Count": 436,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "ee007f19f85ce1d73de2aa745ea1bc20",
@@ -117,7 +133,10 @@
     "Product_Rating": 4.2,
     "Product_Reviews_Count": 442,
     "Expected_Categorys_Count": 0,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "e22a7ea6c594e3e52a4dbe1eb04fd7a3",
@@ -137,7 +156,10 @@
     "Product_Rating": 4.5,
     "Product_Reviews_Count": 1220,
     "Expected_Categorys_Count": 160,
-    "Expected_Brand_Count": 160
+    "Expected_Brand_Count": 160,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "20532c740b21fcecfeecebc2ad1c5a8d",
@@ -157,7 +179,10 @@
     "Product_Rating": 4.2,
     "Product_Reviews_Count": 8,
     "Expected_Categorys_Count": 922,
-    "Expected_Brand_Count": 274
+    "Expected_Brand_Count": 274,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "1ed2ff0473b80cd83ee7cfb130f8d28d",
@@ -177,7 +202,10 @@
     "Product_Rating": 5,
     "Product_Reviews_Count": 0,
     "Expected_Categorys_Count": 342,
-    "Expected_Brand_Count": 504
+    "Expected_Brand_Count": 504,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "b55ffae61426da36e4e511917653a01d",
@@ -197,7 +225,10 @@
     "Product_Rating": "",
     "Product_Reviews_Count": "",
     "Expected_Categorys_Count": 342,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "df491bbe99958f73ae08f65febbe183e",
@@ -217,7 +248,10 @@
     "Product_Rating": 4.2,
     "Product_Reviews_Count": 647,
     "Expected_Categorys_Count": 0,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "3cef574c3a1f4f9c4a01ca889e46a5c9",
@@ -237,7 +271,10 @@
     "Product_Rating": 4.1,
     "Product_Reviews_Count": 13,
     "Expected_Categorys_Count": 258,
-    "Expected_Brand_Count": 143
+    "Expected_Brand_Count": 143,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "7394201eb0856dc34ef00dfc86a8366a",
@@ -257,7 +294,10 @@
     "Product_Rating": 4.5,
     "Product_Reviews_Count": 1177,
     "Expected_Categorys_Count": 1364,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   },
   {
     "Product_Id": "18901030728867890103000000300000000000VHWF1R8IN",
@@ -277,6 +317,9 @@
     "Product_Rating": 4.3,
     "Product_Reviews_Count": 136,
     "Expected_Categorys_Count": 0,
-    "Expected_Brand_Count": 0
+    "Expected_Brand_Count": 0,
+     "Product_Image_list": [
+        
+    ]
   }
 ]
