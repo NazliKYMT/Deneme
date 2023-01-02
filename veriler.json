@@ -20,7 +20,6 @@
     "Expected_Brand_Count": 82 ,
 	 "Product Image List": [
     ] },
-  },
   {
     "Product_Id": "f54658c5d511195b6621a640fb743b1b",
     "Product_Brand_Code": "BH5931",
@@ -42,7 +41,6 @@
     "Expected_Brand_Count": 431 ,
 	 "Product Image List": [
     ] },
-  },
   {
     "Product_Id": "cdf6b3387f8976c8e38ad150173dbb6d",
     "Product_Brand_Code": "BH7276",
@@ -64,7 +62,6 @@
     "Expected_Brand_Count": 0 ,
 	 "Product Image List": [
     ] },
-  },
   {
     "Product_Id": "424755c11c78b2b24ff13c675baf5d19",
     "Product_Brand_Code": "BZ1000",
@@ -86,7 +83,6 @@
     "Expected_Brand_Count": 149 ,
 	 "Product Image List": [
     ] },
-  },
   {
     "Product_Id": "f7f76573099db0058ef5264c35d9d02e",
     "Product_Brand_Code": "BZ1000",
@@ -108,7 +104,6 @@
     "Expected_Brand_Count": 436 ,
 	 "Product Image List": [
     ] },
-  },
   {
     "Product_Id": "ee007f19f85ce1d73de2aa745ea1bc20",
     "Product_Brand_Code": "BZ1000",
@@ -130,7 +125,7 @@
     "Expected_Brand_Count": 0 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "e22a7ea6c594e3e52a4dbe1eb04fd7a3",
     "Product_Brand_Code": "BH5825",
@@ -152,7 +147,7 @@
     "Expected_Brand_Count": 160 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "20532c740b21fcecfeecebc2ad1c5a8d",
     "Product_Brand_Code": "BZ1000",
@@ -174,7 +169,7 @@
     "Expected_Brand_Count": 274 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "1ed2ff0473b80cd83ee7cfb130f8d28d",
     "Product_Brand_Code": "BZ1000",
@@ -196,7 +191,7 @@
     "Expected_Brand_Count": 504 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "b55ffae61426da36e4e511917653a01d",
     "Product_Brand_Code": "BZ1000",
@@ -218,7 +213,7 @@
     "Expected_Brand_Count": 0 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "df491bbe99958f73ae08f65febbe183e",
     "Product_Brand_Code": "BH6523",
@@ -240,7 +235,7 @@
     "Expected_Brand_Count": 0 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "3cef574c3a1f4f9c4a01ca889e46a5c9",
     "Product_Brand_Code": "BZ1000",
@@ -262,7 +257,7 @@
     "Expected_Brand_Count": 143 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "7394201eb0856dc34ef00dfc86a8366a",
     "Product_Brand_Code": "BH5825",
@@ -284,7 +279,7 @@
     "Expected_Brand_Count": 0 ,
 	 "Product Image List": [
     ] },
-  },
+
   {
     "Product_Id": "18901030728867890103000000300000000000VHWF1R8IN",
     "Product_Brand_Code": "BH0499",
