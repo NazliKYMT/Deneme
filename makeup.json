@@ -273,25 +273,5 @@
     "Expected_Brand_Count": 0,
 	"Product_Image_list":[]
   },
-  {
-    "Product_Id": "18901030728867890103000000300000000000VHWF1R8IN",
-    "Product_Brand_Code": "BH0499",
-    "Retailer": "nykaa.com",
-    "Product_Category": "Skin > Body Care > Lotions & Creams",
-    "Product Brand": "Vaseline",
-    "Product_Name": "Vaseline Ice Cool Hydration Lotion",
-    "Product_Price": 210,
-    "Product_Url": "https://www.nykaa.com/c/p/739943?skuId=739942",
-    "Market": "IN",
-    "Product_Description": "Explore the entire range of Lotions & Creams available on Nykaa. Shop more Vaseline products here.You can browse through the complete world of Vaseline Lotions & Creams .Alternatively, you can also find many more products from the Vaseline Ice Cool Hydration Lotion range.MRP: 345 Country of Origin: IndiaName of Mfg / Importer / Brand: Hindustan Unilever LtdAddress of Mfg / Importer / Brand: Hindustan Unilever Ltd, Unilever House, B D Sawant Marg, Chakala Andheri East - 400099",
-    "Product_Currency": "INR",
-    "Product_Image_Url": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_h-8901030788291_2.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s1-8901030788291_2.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s2-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s3-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s4-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s5-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s6-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s7-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s8-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s9-8901030788291_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/7/27315_s10-8901030788291.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/n/y/nyhul_acert_1.jpg",
-    "Product_Tags": "Vaseline Ice Cool Hydration Lotion, Skin, Body Care, Lotions & Creams",
-    "Product_Contents": "Key Ingredients: Glycerin, Niacinamide",
-    "Product_Rating": 4.3,
-    "Product_Reviews_Count": 136,
-    "Expected_Categorys_Count": 0,
-    "Expected_Brand_Count": 0,
-	"Product_Image_list":[]
-  }
+
 ]
