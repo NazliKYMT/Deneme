@@ -408,6 +408,30 @@
     "Product_Rating": 4.5,
     "Product_Reviews_Count": 147,
     "Expected_Category_Count": 436,
-    "Expected_Brand_Count": 231
+    "Expected_Brand_Count": 231,
+	 "Product_Image_List": [
+    ]
+  },
+  {
+    "Product_Id": "0fa5079fd0dcceb98cd924c9412a5a65",
+    "Product_Brand_Code": "BZ1000",
+    "Retailer": "nykaa.com",
+    "Product_Category": "Makeup > Combos @ Nykaa",
+    "Product_Brand": "Makeup Revolution",
+    "Product_Name": "Makeup Revolution Blush Palette - Blush Goddess",
+    "Product_Price": 1350,
+    "Product_Url": "https://www.nykaa.com/c/p/61002?skuId=61003",
+    "Market": "IN",
+    "Product_Description": "Introducing the stunning blush and highlight palette, perfect for this season! The Makeup Revolution Blush palette has 4 beautiful highlighter shades, ranging in intensity from natural sheen to intense illumination along with 4 blushes in glamourous pink to peach shades, that are great to achieve the pretty dolled up party look. This is a great all in one palette for every day blush and highlight makeup look. Sweep highlight shades along cheekbones and an upward stroke of blush shades starting from the apples of the cheeks to glam up your makeup look to the next level. Highly pigmented, smooth and blend able shades. These palettes have a mixture of matte, shimmer and baked merged powders. Includes 4 stunning blushes and highlighters. Additional Information:Â Makeup Revolution is a London based Makeup brand with innovative and trending beauty products for people passionate about cosmetics. They offer a stunning, in-trend vast range of Makeup palettes and products that are made of highest quality, 100% Cruelty Free ingredients and are not tested on animals.Explore the entire range of Blush available on Nykaa. Shop more Makeup Revolution products here.You can browse through the complete world of Makeup Revolution Blush .Alternatively, you can also find many more products from the Makeup Revolution Blush Palette range.MRP: 1350 Country of Origin: ChinaName of Mfg / Importer / Brand: Revolution BeautyAddress of Mfg / Importer / Brand: Revolution Beauty,Unit 4-5, Sheet Glass Road, Cullet Drive, Queenborough, Kent, ME11 5JS,info@kanvargroup.com,911143801376",
+    "Product_Currency": "INR",
+    "Product_Image_Url": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/0/20147uk-1_1.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/0/20147uk-3.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/0/20147uk-2.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/r/e/revolution-1_186.jpg",
+    "Product_Tags": "Makeup Revolution Blush Palette - Blush Goddess, Makeup, Face, Blush",
+    "Product_Contents": "",
+    "Product_Rating": 3.8,
+    "Product_Reviews_Count": 42,
+    "Expected_Category_Count": 0,
+    "Expected_Brand_Count": 0,
+	 "Product_Image_List": [
+    ]
   }
 ]
