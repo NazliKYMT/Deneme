@@ -433,5 +433,27 @@
     "Expected_Brand_Count": 0,
 	 "Product_Image_List": [
     ]
+  },
+{
+    "Product_Id": "30e44a225f4e6dd2f06749326bc990ff",
+    "Product_Brand_Code": "BZ1000",
+    "Retailer": "nykaa.com",
+    "Product_Category": "Makeup > Lips > Lip Liner",
+    "Product_Brand": "Charlotte Tilbury",
+    "Product_Name": "Charlotte Tilbury Lip Cheat - Hot Gossip",
+    "Product_Price": 2200,
+    "Product_Url": "https://www.nykaa.com/c/p/985209?skuId=959731",
+    "Market": "IN",
+    "Product_Description": "Lip liner is the backstage secret weapon! Lip Cheat Lip Liner has everything you need for a fuller-looking, re-defined pout, perfecting the look of your lips before going bold with your lipstick.What makes it magic?- Perfect the look of your lip shape!- Smooths over texture for a seamless line, so you can resize and reshape the appearance of your lips for a fuller-looking pout- Lasts up to 6 hours with no smudging*- Waterproof formula- Transfer resistant formula- Ideal for perfectly defined, color-rich lips- This product is vegan friendly*Tested on 20 womenAlternatively, you can also find many more products from the Charlotte Tilbury Lip Cheat range.MRP: 2200 Country of Origin: GermanyName of Mfg / Importer / Brand: Charlotte TilburyAddress of Mfg / Importer / Brand: 8 Surrey Street, London, WC2R 2ND, United Kingdom.",
+    "Product_Currency": "INR",
+    "Product_Image_Url": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/b/f/bfd3bd75060542720175.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/b/f/bfd3bd75060542720175_2.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/5/0/5060542720175.jpeg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/b/f/bfd3bd75060542720175_3.jpg|https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/a/u/authenticity-certificate-ct---nykaa_161.jpg",
+    "Product_Tags": "Charlotte Tilbury Lip Cheat - Hot Gossip,Make Up , Lips , Lip Liner",
+    "Product_Contents": "Cyclopentasiloxane, Synthetic Wax, Mica, Isododecane, Polybutene, Hydrogenated Cottonseed Oil, Ceresin, Ozokerite, Microcrystalline Wax/cera Microcristallina/cire Microcristalline, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Ascorbyl Palmitate, [+/- Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499), Red 7 Lake (Ci 15850)].",
+    "Product_Rating": 3.9,
+    "Product_Reviews_Count": 5,
+    "Expected_Category_Count": 179,
+    "Expected_Brand_Count": 0,
+	 "Product_Image_List": [
+    ]
   }
 ]
