@@ -1,11 +1,5 @@
 
-  [
-    {
-      "Id": 1,
-      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/12.jpg",
-      "Description": "Açıklama",
-      "Desk":1
-    },
+  [   
     {
       "Id": 2,
       "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/14_1.png",
@@ -48,11 +42,5 @@
       "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/24.png",
       "Description": "Açıklama",
       "Desk":8
-    },
-    {
-      "Id": 9,
-      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/6.jpg",
-      "Description": "Açıklama",
-      "Desk":9
     }
   ]
