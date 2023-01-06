@@ -1,1 +1,58 @@
 
+  [
+    {
+      "Id": 1,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/12.jpg",
+      "Description": "Açıklama",
+      "Desk":1
+    },
+    {
+      "Id": 2,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/14.jpg",
+      "Description": "Açıklama",,
+      "Desk":2
+    },
+    {
+      "Id": 3,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/17.jpg",
+      "Description": "Açıklama",,
+      "Desk":3
+    },
+    {
+      "Id": 4,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/19.jpg",
+      "Description": "Açıklama",
+      "Desk":4
+
+    },
+    {
+      "Id": 5,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/20.jpg",
+      "Description": "Açıklama",
+      "Desk":5
+    },
+    {
+      "Id": 6,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/21.jpg",
+      "Description": "Açıklama",
+      "Desk":6
+    },
+    {
+      "Id": 7,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/23.jpg",
+      "Description": "Açıklama",
+      "Desk":7
+    },
+    {
+      "Id": 8,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/24.png",
+      "Description": "Açıklama",
+      "Desk":8
+    },
+    {
+      "Id": 9,
+      "Url": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/carousel/6.jpg",
+      "Description": "Açıklama",
+      "Desk":9
+    },
+  ]
