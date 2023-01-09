@@ -1,22 +1,22 @@
 [
   {
-    "categories": "lipstick",
+    "categories": "Lipstick",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG"
   },
   {
-    "categories": "mascara",
+    "categories": "Mascara",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
   },
   {
-    "categories": "eyeshadow",
+    "categories": "Eyeshadow",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
   },
   {
-    "categories": "foundation",
+    "categories": "Foundation",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
   },
   {
-    "categories": "blusher",
+    "categories": "Blusher",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG"
   }
 ]
