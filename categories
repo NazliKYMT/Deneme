@@ -1,26 +1,146 @@
 [
-  {
-    "categories": "Lipstick",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG"
-  },
-  {
-    "categories": "Mascara",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
-  },
-  {
-    "categories": "Eyeshadow",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
-  },
-  {
-    "categories": "Foundation",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
-  },
-  {
-    "categories": "Blush",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG"
-  },
-  {
-    "categories": "Nail",
-    "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.jpg"
-  }
+    {
+        "categories": "Lipstick",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG",
+                "raiting": 4.2,
+                "Price": 150
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG",
+                "raiting": 4,
+                "Price": 120
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/ruj.PNG",
+                "raiting": 3,
+                "Price": 100
+            }
+        ]
+    },
+    {
+        "categories": "Mascara",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
+                "raiting": 4.2,
+                "Price": 110
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
+                "raiting": 4,
+                "Price": 120
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
+                "raiting": 5,
+                "Price": 150
+            }
+        ]
+    },
+    {
+        "categories": "Eyeshadow",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
+                "raiting": 3.2,
+                "Price": 80
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
+                "raiting": 4,
+                "Price": 100
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
+                "raiting": 4.2,
+                "Price": 130
+            }
+        ]
+    },
+    {
+        "categories": "Foundation",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
+                "raiting": 3.2,
+                "Price": 80
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
+                "raiting": 4,
+                "Price": 100
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
+                "raiting": 4.2,
+                "Price": 130
+            }
+        ]
+    },
+    {
+        "categories": "Blush",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG",
+                "raiting": 3.2,
+                "Price": 80
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG",
+                "raiting": 4,
+                "Price": 100
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher",
+                "raiting": 4.2,
+                "Price": 130
+            }
+        ]
+    },
+    {
+        "categories": "Nail",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.jpg",
+        "products": [
+            {
+                "id": 1,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.jpg",
+                "raiting": 3.2,
+                "Price": 80
+            },
+            {
+                "id": 2,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.jpg",
+                "raiting": 4,
+                "Price": 100
+            },
+            {
+                "id": 3,
+                "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.jpg",
+                "raiting": 4.2,
+                "Price": 130
+            }
+        ]
+    }
 ]
