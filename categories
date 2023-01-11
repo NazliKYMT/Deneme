@@ -48,9 +48,9 @@
     "categories": "Nail",
     "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG",
     "products":[
-	{"id":1,"name":"nail1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG","raiting":3.2,"Price":80},
-	{"id":2,"name":"nail3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG","raiting":4.0,"Price":100},
-	{"id":3,"name":"nail2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG","raiting":4.2,"Price":130}
+	{"id":1,"name":"Orly","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG","raiting":3.2,"Price":80},
+	{"id":2,"name":"Nykaa Cosmetics","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG","raiting":4.0,"Price":100},
+	{"id":3,"name":"Avon","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG","raiting":4.2,"Price":130}
 	]
   },
   {
