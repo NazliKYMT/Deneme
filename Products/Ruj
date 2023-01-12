@@ -1,0 +1,5 @@
+[
+	{"id":1,"name":"ruj1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/ruj1.jpg","raiting":4.2,"Price":150},
+	{"id":2,"name":"ruj1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/ruj2.jpg","raiting":4.0,"Price":120},
+	{"id":3,"name":"ruj1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/ruj3.jpg","raiting":3.0,"Price":100}
+]
