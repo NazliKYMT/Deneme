@@ -1,5 +1,5 @@
 [
-{"id":1,"name":"mascara1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":4.2,"Price":110,"categories":"Mascara"},
-	{"id":2,"name":"mascara1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":4.0,"Price":120,"categories":"Mascara"},
-	{"id":3,"name":"mascara2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":5.0,"Price":150,"categories":"Mascara"}
+{"id":1,"name":"mascara1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":4.2,"Price":110},
+	{"id":2,"name":"mascara1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":4.0,"Price":120},
+	{"id":3,"name":"mascara2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG","raiting":5.0,"Price":150}
 ]
