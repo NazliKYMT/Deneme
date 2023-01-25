@@ -1,5 +1,5 @@
 [
-	{"id":1,"name":"Orly","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"color":"Colors.pink"},
-	{"id":2,"name":"Nykaa Cosmetics","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"color":"Colors.pink"},
-	{"id":3,"name":"Avon","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"color":"Colors.pink"}
+	{"id":1,"name":"Orly","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"color":"pink"},
+	{"id":2,"name":"Nykaa Cosmetics","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"color":"pink"},
+	{"id":3,"name":"Avon","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"color":"pink"}
 	]
