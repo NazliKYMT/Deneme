@@ -1,5 +1,5 @@
-[
-	{"id":1,"name":"Eyeshadow1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"color":"pink"},
-	{"id":2,"name":"Eyeshadow2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"color":"pink"},
-	{"id":3,"name":"Eyeshadow3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"color":"pink"}
+	[
+		{"id":1,"name":"Eyeshadow1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"Favories":false},
+		{"id":2,"name":"Eyeshadow2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"Favories":false},
+		{"id":3,"name":"Eyeshadow3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"Favories":false}
 	]
