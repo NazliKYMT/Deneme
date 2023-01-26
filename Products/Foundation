@@ -1,5 +1,5 @@
-[
-	{"id":1,"name":"Foundation3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"color":"pink"},
-	{"id":2,"name":"Foundation2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"color":"pink"},
-	{"id":3,"name":"Foundation1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"color":"pink"}
+	[
+		{"id":1,"name":"Foundation3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"Favories":true},
+		{"id":2,"name":"Foundation2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"Favories":true},
+		{"id":3,"name":"Foundation1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"Favories":true}
 	]
