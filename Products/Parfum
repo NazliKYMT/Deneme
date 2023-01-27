@@ -1,5 +1,5 @@
 [
-	{"id":1,"name":"p1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"Favories":false},
-	{"id":2,"name":"p3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"Favories":false},
-	{"id":3,"name":"p2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"Favories":false}
+	{"id":1,"name":"p1","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":3.2,"Price":80,"HomeFavories":0,"Favories":false,"Description": "Introducing",  "details_image": []},
+	{"id":2,"name":"p3","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":4.0,"Price":100,"HomeFavories":0,"Favories":false,"Description": "Introducing",  "details_image": []},
+	{"id":3,"name":"p2","products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG","raiting":4.2,"Price":130,"HomeFavories":0,"Favories":false,"Description": "Introducing",  "details_image": []}
 	]
