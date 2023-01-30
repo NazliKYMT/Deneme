@@ -14,7 +14,7 @@
         "id": 2,
         "name": "Eyeshadow2",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
-        "raiting": 4,
+        "raiting": 4.0,
         "Price": 100,
         "HomeFavories": 0,
         "Favories": false,
