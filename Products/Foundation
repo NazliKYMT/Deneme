@@ -8,7 +8,15 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "Introducing",
-        "details_image": []
+        "details_image": 
+         [
+            {
+                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            },
+            {
+                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            }
+        ]
     },
     {
         "id": 2,
@@ -19,7 +27,15 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "Introducing",
-        "details_image": []
+        "details_image": 
+              [
+            {
+                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            },
+            {
+                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            }
+        ]
     },
     {
         "id": 3,
@@ -30,6 +46,14 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "Introducing",
-        "details_image": []
+        "details_image": 
+                [
+            {
+                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            },
+            {
+                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+            }
+        ]
     }
 ]
