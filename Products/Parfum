@@ -21,7 +21,7 @@
         "id": 2,
         "name": "p3",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG",
-        "raiting": 4,
+        "raiting": 4.5,
         "Price": 100,
         "HomeFavories": 0,
         "Favories": false,
