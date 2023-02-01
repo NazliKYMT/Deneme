@@ -8,6 +8,7 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "",
+        "Categories": "Brush",
         "details_image": [
             {
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
@@ -26,6 +27,7 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "",
+        "Categories": "Brush",
         "details_image": [
             {
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg"
@@ -41,6 +43,7 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "",
+        "Categories": "EyesShadow",
         "details_image": [
             {
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/8.jpg"
@@ -56,6 +59,7 @@
         "HomeFavories": 0,
         "Favories": true,
         "Description": "",
+        "Categories": "Nail",
         "details_image": [
             {
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg"
