@@ -84,20 +84,6 @@
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
             }
         ]
-    },
-     {
-        "id": 92,
-        "name": "Skin Serum",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg",
-        "raiting": 4.0,
-        "Price": 100,
-        "HomeFavories": 0,
-        "Favories": true,
-        "Description": "",
-        "details_image": [
-            {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg"
-            }
-        ]
     }
+  
 ]
