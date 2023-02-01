@@ -1,0 +1,65 @@
+[
+    {
+        "id": 91,
+        "name": "Foundation Brush",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg",
+        "raiting": 3.2,
+        "Price": 80,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Skin Serum",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg",
+        "raiting": 4,
+        "Price": 100,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Makeup Eyeshadow Palette",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/8.jpg",
+        "raiting": 4.2,
+        "Price": 130,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/8.jpg"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Nail",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg",
+        "raiting": 4.2,
+        "Price": 130,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg"
+            }
+        ]
+    }
+]
