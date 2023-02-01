@@ -66,5 +66,23 @@
                 "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/r/e/revolution-1_186.jpg"
             }
         ]
+    },
+    {
+        "id": 91,
+        "name": "Foundation Brush",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg",
+        "raiting": 3.2,
+        "Price": 80,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
+            },
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
+            }
+        ]
     }
 ]
