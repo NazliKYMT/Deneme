@@ -52,5 +52,20 @@
                 "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
             }
         ]
+    },
+    {
+        "id": 94,
+        "name": "Nail",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg",
+        "raiting": 4.2,
+        "Price": 130,
+        "HomeFavories": 0,
+        "Favories": true,
+        "Description": "",
+        "details_image": [
+            {
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg"
+            }
+        ]
     }
 ]
