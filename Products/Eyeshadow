@@ -11,10 +11,10 @@
         "details_image": 
           [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
             }
         ]
     },
@@ -30,29 +30,29 @@
         "details_image": 
             [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
             }
         ]
     },
     {
         "id": 3,
-        "name": "Eyeshadow3",
+        "name": "Miss Claire Shimmer Dust - 13",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
         "raiting": 4.2,
         "Price": 130,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description": "Invest in this little pot of sparkly fun. Introducing Miss Claire Shimmer Dust - a pot full of finely milled shimmer-based loose eyeshadow pigment that will make your eyes sparkle from a distance while the concentrated powder blends smoothly for a streak free application. This intense eyeshadow can be blended with other colors for a multi dimensional look. Use it to create ultra-glam versions of your favorite eye looks: halo eyes, glimmering cat eyes, super-bright inner corners, sparkling smokey eyes and more.Features: Loose eyeshadow pigment that lets you create a sparkling spectrum of captivating eye looksThe loose glitter formula applies easily and the vibrant shades can be mixed, layered and blended for high-impact, glistening effectsThis highly concentrated pearl pigment delivers excellent blendabilityIt is a one stop product for that multi-dimensional metallic effectAbout the Brand: Presenting an entire colorful range of face, lips and eye cosmetics that enhance your beauty and amplify your daily make-up looks. Loved by makeup fans across India, Miss Claire cosmetics are of premier quality, trendy, affordable and are formulated using the finest ingredients that care for your skin. The products are manufactured in accordance with European Standards. Choose from a huge range of Miss Claire makeup and beauty products right from lipstick, bronzers, highlighters, foundation, eyeliners to concealers all available in highly pigmented formula and textures. Miss Claire makeup products are affordably priced, long lasting and suit all skin tones.Explore the entire range of Eye Shadow available on Nykaa. Shop more Miss Claire products here.You can browse through the complete world of Miss Claire Eye Shadow .Alternatively, you can also find many more products from the Miss Claire Shimmer Dust range.MRP: 295",
         "details_image": 
            [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/8/0/800_0134_8903487038271.jpg"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/m/i/miss_claire_authority_to_nykaa_20181008_0001-1_841.jpg"
             }
         ]
     },
