@@ -1,19 +1,19 @@
 [
   {
         "id": 91,
-        "name": "Foundation Brush",
+        "name": "Bobbi Brown Eye Shadow Brush",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg",
         "raiting": 3.2,
         "Price": 80,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "",
+        "Description": "If we could bring only one eyeshadow brush with us to a desert island, we'd grab this classic pick by makeup legend Bobbi Brown. With synthetic bristles and a round, perfectly sloped head, it's ideal for defining your lash line, smoothing color into your crease, and all-over blending. This brush is designed for powdered shadows, effortlessly picking up and holding pigment until you tap off the excess or swipe it onto your lids.",
         "details_image": [
             {
                 "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/2.jpg"
+                "img": "https://www.byrdie.com/thmb/YBd7zzpu48tyCI0Vabbn7jkImfw=/fit-in/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BobbiBrownEyeShadowBrush-88a675ef130e42b0a6a41da7b6140d22.jpg"
             }
         ]
     }
