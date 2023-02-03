@@ -1,39 +1,45 @@
 [
     {
         "id": 1,
-        "name": "Foundation3",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
-        "raiting": 3.2,
-        "Price": 80,
+        "name": "Lotus Make-Up Ecostay Radiant Gel Foundation - Vanilla",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/0/8/0806360185025_1__2.jpg",
+        "raiting": 4.2,
+        "Price": 591,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "Introducing",
+        "Description": "Get long lasting dewy and glowing skin using the Lotus Ecostay Radiant Gel Foundation. It is enriched with moisturising and purifying properties of Frangipani extracts and anti-ageing benefits of vitamin E.This new-age gel formula based foundation blends easily for a spotless, natural coverage and masks uneven skin and imperfections without looking cakey or greasy giving way to flawless natural looking skin.It is suitable for all skin types and ensures no breakouts. Features: Medium coverage gel based foundation Offers flawless, seamless coverage Provides extreme hydration to the skin Imparts a radiant finish Comes with SPF 20 Shelf Life: 36 months from the date of manufacturing. About the Brand: Lotus Herbals is India's leading natural skincare and cosmetics company, known for their wide range of Ayurvedic and Herbal skin care, hair care and cosmetic products. Combining ancient wisdom from the Vedas with the latest technology, all their products are made from top quality, scientifically developed, herbal ingredients and are free from chemicals and animal-testing. You can explore various offers on black friday on Nykaa from 26th - 30th Nov 2020 in the Pink Friday Sale 2020. Get additional 10% off on HDFC Bank Card. Use Coupon: NYKHDFC10. Offer valid only on the Nykaa app.Explore the entire range of Foundation available on Nykaa. Shop more Lotus Make Up products here.You can browse through the complete world of Lotus Make Up Foundation .Alternatively, you can also find many more products from the Lotus Make-Up Ecostay Radiant Gel Foundation range.MRP: 695 Country of Origin: IndiaName of Mfg / Importer / Brand: Lotus Herbals Color CosmeticsAddress of Mfg / Importer / Brand: 80-B & 80-C, Jharmajri, Baddi, Disst Solan - 173205 (HP)",
         "details_image": 
          [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/0/8/0806360185025_1__2.jpg"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/0/8/0806360185025_3__1.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/l/o/lotus_herbals_3_604.jpg"
             }
         ]
     },
     {
         "id": 2,
-        "name": "Foundation2",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG",
-        "raiting": 4.0,
-        "Price": 100,
+        "name": "Wet n Wild Photo Focus Foundation - Mocha",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/7/7/77802537737.jpeg",
+        "raiting": 4.1,
+        "Price": 300,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "Introducing",
+        "Description":  "Your skin, only better. Wet n Wild's new high-performing, skin-perfecting foundation underwent major road testing under seven different photo lighting conditions to deliver flawless camera-ready makeup every time. Specially made with a matte, light-diffusing complex to give your skin #nofilter perfection. Features : High-performing, breakthrough formula Featuring light-adjusting complex to help prevent white cast in photos Tested under 7 light conditions with and without the use of flash Goodbye Photo Flashback : Tested Under 7 light conditions and with top smartphone models. Clear Blue Sunlit Sky. Outdoors PM. Indoors PM. Electronic Flash. Fluorescent Light. Bathroom Light. Nightclub Light. Note - Wet n Wild is a Peta-certified, cruelty-free brand.Though not 100% of the products are vegan, but the brand is striving towards making them all vegan friendly! Additional Information : Wet n Wild is a Los Angeles based company bringing to you stunning range of cosmetics with high-performance formulations all available at unbeatable prices.Since 1979, millions of women around the world have trusted Wet n Wild in delivering prestige-quality cosmetics in trendy colors.Avail hottest makeup picks, get the latest beauty inspiration with on-trend Wet n Wild palettes, lip colors, foundations and much more to get flawless makeup looks all the time!Explore the entire range of Foundation available on Nykaa. Shop more Wet n Wild products here.You can browse through the complete world of Wet n Wild Foundation .Alternatively, you can also find many more products from the Wet n Wild Photo Focus Foundation range.MRP: 599 Country of Origin: ChinaName of Mfg / Importer / Brand: Markwins Beauty Products, INC.Address of Mfg / Importer / Brand: Markwins Beauty Products, INC.,22067, Ferrero Parkway, City of Industry, CA 91789,info@kanvargroup.com,911143801376",
         "details_image": 
               [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/7/7/77802537737a.jpeg"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/w/e/wet_n_wild_photo_focus_foundation_-_mocha_2.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/w/e/wet_n_wild-1_257.jpg"
             }
         ]
     },
@@ -49,10 +55,10 @@
         "details_image": 
                 [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
             }
         ]
     }
