@@ -57,6 +57,25 @@
         ]
     },
      {
+        "id": 4,
+        "name": "theBalm Shadow And Blush - CabanaBoy",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/8/681619700521.jpg",
+        "raiting":  4.4,
+        "Price": 1799,
+        "HomeFavories": 0,
+        "Favories": false,
+        "Description": "A polished and put-together woman makes the boys go wild and this shadow/blush adds just the right amount of color to ensure that you turn heads. theBalm Blush formula is made of finely-graded powder, which helps provide an even and smooth texture to the skin. The light-reflecting particles also give off an aura of elegance without detectable shimmer. When you can't keep the boys away, blame it on the blush. - Get gorgeous sun-kissed glow with this blush. - 2-in-1 product- Can be used as an eyeshadow and blush. - Intensely pigmented. - Subtle shimmer that highlights your face beautifully. - Long lasting wear. - Talc-free and Paraben-free.Explore the entire range of Blush available on Nykaa. Shop more theBalm products here.You can browse through the complete world of theBalm Blush .Alternatively, you can also find many more products from the theBalm Shadow And Blush range.MRP: 1799 Country of Origin: United States of America (the)",
+        "details_image": 
+           [
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/8/681619700521.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/c/a/cabanaboy_model.jpg"
+            }
+        ]
+    },
+     {
         "id": 93,
         "name": "L.A. Girl Eye Lux Mesmerizing Eyeshadow - Tropicalize",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/8.jpg",
