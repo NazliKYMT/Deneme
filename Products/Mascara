@@ -1,20 +1,32 @@
 [
     {
         "id": 1,
-        "name": "mascara1",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
-        "raiting": 4.2,
-        "Price": 110,
+        "name": "Too Faced Better Than Sex Mascara Travel Size - Black",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/1/e1d9a6e651986971961_2.jpg",
+        "raiting": 4.5,
+        "Price": 1050,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description": "Experience the purse-sized version of a mascara so amazing... It's Better Than Sex! This unique collagen-fueled formula thickens, lengths and curls after just one coat. Swipe on 3 coats for the most luscious, dramatic, volumized lashes possible!Reasons to Love:- Intensely black, volumizing mascara for voluptuous lashes- Film-forming polymers for smudge-proof, all day wear- Acacia Senegal Tree Extract to nourish, thicken and lock curl in place- Contains unique peptides that condition lashes- Hourglass-shaped brush unlocks the collagen-fueled formula- This product is free from parabens- Too Faced is a cruelty-free brandWhat else you need to know: Created during a quest to find the holy grail of mascara, Better Than Sex provides extreme volume and a more dramatic look with each coat. The hourglass-shaped brush unlocks the formula to create the perfect mascara that volumizes, lifts and coats both top and bottom lashes - with no lash left behind.Country of Origin : Belgium / Canada / France / Germany / Italy / Japan / South Korea / Switzerland / United Kingdom / United StatesExplore the entire range of Mascara available on Nykaa. Shop more Too Faced products here.You can browse through the complete world of Too Faced Mascara .Alternatively, you can also find many more products from the Too Faced Better Than Sex Mascara - Black range.MRP: 1050 Expiry Date: 15 July 2021",
         "details_image": 
           [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/1/e1d9a6e651986971961_2.jpg"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/1/e1d9a6e651986971961_1.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/1/e1d9a6e651986971961_3.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/5/651986800216_4_1__1.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/5/651986800216_7_1__1.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/5/651986800216_6_1__1.jpg"
             }
         ]
     },
