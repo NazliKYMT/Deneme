@@ -57,20 +57,26 @@
     },
     {
         "id": 52,
-        "name": "mascara2",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
-        "raiting": 5.0,
-        "Price": 150,
+        "name": "M.A.C In Extreme Dimension Lash Mascara / Mini - 3D Black",
+        "products_img":"https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/7/7/773602472284_mini.jpg",
+     "raiting": 5.0,
+        "Price": 1050,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description":  "Country of Origin : Belgium / Canada / France / Germany / Italy / Japan / South Korea / Switzerland / United Kingdom / United StatesExplore the entire range of Mascara available on Nykaa. Shop more M.A.C products here.You can browse through the complete world of M.A.C Mascara .Alternatively, you can also find many more products from the M.A.C In Extreme Dimension Lash Mascara / Mini range.MRP: 1050 Name of Mfg / Importer / Brand: Estee lauder CompaniesAddress of Mfg / Importer / Brand: the Estee Lauder Companies INC,767,fifth Avenue,NY,10153,United States of America",
         "details_image":
               [
                 {
-                    "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                    "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/7/7/773602472284_mini.jpg"
                 },
                 {
-                    "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                    "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/a/e/ae2929a773602472284_rv__1.jpg"
+                },
+                {
+                    "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/a/e/ae2929a773602472284_rv__3.jpg"
+                },
+                {
+                    "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/a/e/ae2929amac-nykaa-authenticity-cert.jpg"
                 }
         ]
     }
