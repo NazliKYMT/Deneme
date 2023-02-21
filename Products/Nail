@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 61,
         "name": "Orly",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG",
         "raiting": 3.2,
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 62,
         "name": "Nykaa Cosmetics",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG",
         "raiting": 4.0,
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 63,
         "name": "Avon",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG",
         "raiting": 4.2,
