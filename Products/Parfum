@@ -37,19 +37,22 @@
     },
     {
         "id": 73,
-        "name": "p2",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG",
-        "raiting": 4.2,
-        "Price": 130,
+        "name": "Davidoff Run Wild Woman Eau De Parfum",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/6/3614227880245_1.jpg",
+        "raiting": 5.0,
+        "Price": 3320,
         "HomeFavories": 0,
         "Favories": false,
         "Description": "Introducing",
         "details_image": [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/6/3614227880245_1.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/6/3614227880245_2.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/3/6/3614227880245_3.jpg"
             }
         ]
     }
