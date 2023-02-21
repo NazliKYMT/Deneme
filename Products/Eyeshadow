@@ -29,20 +29,26 @@
     },
     {
         "id": 21,
-        "name": "Eyeshadow2",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
-        "raiting": 4.0,
-        "Price": 100,
+        "name": "Charlotte Tilbury Luxury Palette - The Sophisticate",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/0/d0a6bd75060332320356.jpg",
+         "raiting": 4.5,
+        "Price": 4900,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description": "This Luxury Palette eyeshadow palette in The Sophisticate features a quartet of matte eyeshadows in chocolate, taupe, tan and cream shades for a gorgeous low-key look that transcends the seasons!What makes it magic?- Get desk to dusk to disco eyeshadow in minutes!- Highly pigmented shades mean you get long-lasting color that is buildable throughout the day- Shades are all color-coded so its artistry made effortless- Ideal if you want a timeless eye makeup look for any occasion!- This product is gluten-free, sulfate-free, and not tested on animalsExplore the entire range of Eye Shadow available on Nykaa. Shop more Charlotte Tilbury products here.You can browse through the complete world of Charlotte Tilbury Eye Shadow .Alternatively, you can also find many more products from the Charlotte Tilbury Luxury Palette range.MRP: 4900 Expiry Date: 15 December 2022Country of Origin: ItalyName of Mfg / Importer / Brand: Charlotte TilburyAddress of Mfg / Importer / Brand: 8 Surrey Street, London, WC2R 2ND, United Kingdom.",
         "details_image": 
             [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/0/d0a6bd75060332320356.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/0/d0a6bd75060332320356_2.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/0/d0a6bd75060332320356_3.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/a/u/authenticity-certificate-ct---nykaa_172.jpg"
             }
         ]
     },
