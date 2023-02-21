@@ -10,10 +10,10 @@
         "Description": "Introducing",
         "details_image": [
             {
-                "img1": "hhttps://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
+                "img": "hhttps://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
             }
         ]
     },
@@ -21,17 +21,17 @@
         "id": 2,
         "name": "Nykaa Cosmetics",
         "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG",
-        "raiting": 4,
+        "raiting": 4.0,
         "Price": 100,
         "HomeFavories": 0,
         "Favories": false,
         "Description": "Introducing",
         "details_image": [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
             }
         ]
     },
@@ -46,10 +46,10 @@
         "Description": "Introducing",
         "details_image": [
             {
-                "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
             },
             {
-                "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
+                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
             }
         ]
     },
