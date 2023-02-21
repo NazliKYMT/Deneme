@@ -1,20 +1,29 @@
 [
     {
         "id": 20,
-        "name": "Eyeshadow1",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG",
-        "raiting": 3.2,
-        "Price": 80,
+        "name": "PAC Pure Matte Eyeshadow - 46 Orange Candy",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac00001037m_1.jpg",
+         "raiting": 3.4,
+        "Price": 300,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description":  "PAC Pure Matte Eyeshadows are a must have your makeup vanity. Its high pigmentation and first-time color payoff are all you need to perfect your make up look. These eyeshadows have a texture so smooth that it makes blending process easy and effortless. From glam to soft, These eyeshadows will help create any look that you fancy!Features: High-payoff and long-lasting color Available in a wide range of stunning colors Easy to blend and buildAdditional Information: PAC Cosmetics is a professional makeup artist brand bringing in the highest quality, innovative cosmetic products to all makeup lovers and professional artists.Started in 2002, PAC is a team of conscientious and committed experts dedicated to make tools that help you perfect your makeup, minus all the fuss, just as you desire.The products used have been bought from worldwide and are completely free from any heavy metal or animal testing to ensure that only the best is delivered to you.Explore more from our Eye Shadow collection here.Explore the entire range of Eye Shadow available on Nykaa. Shop more PAC products here.You can browse through the complete world of PAC Eye Shadow .Alternatively, you can also find many more products from the PAC Pure Matte Eyeshadow range.MRP: 300 Country of Origin: China",
         "details_image": 
           [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac00001037m_1.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac00001037m_2.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac00001037m_3.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac00001037m_5.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/e/b/eb0f9aanypac_acert.jpg"
             }
         ]
     },
