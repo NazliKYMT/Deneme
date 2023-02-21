@@ -1,1 +1,21 @@
-aa
+[
+  {
+        "id": 52,
+        "name": "mascara2",
+        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG",
+        "raiting": 5.0,
+        "Price": 150,
+        "HomeFavories": 0,
+        "Favories": false,
+        "Description": "Introducing",
+        "details_image":
+              [
+                {
+                    "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                },
+                {
+                    "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                }
+        ]
+    }
+]
