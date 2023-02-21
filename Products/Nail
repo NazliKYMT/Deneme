@@ -1,55 +1,64 @@
 [
     {
         "id": 61,
-        "name": "Orly",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG",
-        "raiting": 3.2,
-        "Price": 80,
+        "name": "LYN Lacquers - Stripped",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/s/t/stripped.jpg",
+        "raiting": 3.5,
+        "Price": 350,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description":"Live Your Now (LYN) introduces the 'Nude Collection', that comprises of skin-complementing shades that are chic and subtle. Live Your Now offers you a revolutionary high definition nail lacquer that promises to give you nothing less than pure color perfection. The lacquers have been formulated with pigments that reveal their true color for ultimate wear. These lacquers are cruelty-free, vegan, free from harmful chemicals like toluene, DBP, camphor, formaldehyde, resin.Features:High definition nail lacquer collection featuring subtle nude shades The nail lacquers in this range have been created with an expert formulator in FranceIdeal for a glossy finish and long lasting nail color in a jiffy!Pigment rich formula offers intense color in a single strokeFree from toluene, DBP, camphor, formaldehyde, resinThis product is cruelty-free and vegan About the Brand: LYN (Live Your Now) stands for enhancing the beauty of women with ingredients that are wrapped in insight and inspiration. They want women to look, live, and feel their best and hence aim to expand the promise and possibility of beauty for hands and feet! Drawing their creative inspiration from French elegance, LYN goes on translating its refined universe into nail lacquers and nail products that display a unique blend of modernity and timeless elegance.Explore the entire range of Nail Polish available on Nykaa. Shop more LYN products here.You can browse through the complete world of LYN Nail Polish .Alternatively, you can also find many more products from the LYN Lacquers - Nude Collection range.MRP: 350 Expiry Date: 15 September 2022Name of Mfg / Importer / Brand: Fiabila India Pvt LtdAddress of Mfg / Importer / Brand: V-16&17,MIDC,Taloja 410208",
         "details_image": [
             {
-                "img": "hhttps://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje1.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/s/t/stripped.jpg"
             }
         ]
     },
     {
         "id": 62,
-        "name": "Nykaa Cosmetics",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG",
-        "raiting": 4.0,
-        "Price": 100,
+        "name": "Orly Breathable Treatment + Color Nail Lacquer - Stronger Than Ever - Red Shimmer",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/n/y/nykorl0000113.jpg",
+        "raiting": 3.5,
+        "Price": 1000,
         "HomeFavories": 0,
         "Favories": false,
-        "Description": "Introducing",
+        "Description": "Orly Breathable Treatment + Colour Nail Lacquer is a 3 in 1 paint, base, colour and top coat! Orly Breathable is the Nail Polish that breathes, allowing moisture and hydration to reach the nail while also letting excess moisture escape. The release of excess moisture is the key to preventing chipping and peeling, resulting in longer lasting manicures. It nourishes, heals and repairs your nails with the goodness of Argan Oil, Pro-Vitamin B5 and Vitamin C.This long lasting colour prevents chipping and gives stronger, healthier nails and cuts your manicure time in half! No Base or Topcoat Needed!Breathable Formula Prevents Chipping and PeelingNo Basecoat or Topcoat NeededHeal & repair & with Argan Oil, Pro-Vitamin B5 & Vitamin C13-Free FormulaORLY Breathable Treatment + Colour is Halal CertifiedORLY Breathable Treatment + Colour is formulated without:Toluene, Formaldehyde, Dibutyl Phthalate (DBP), Formaldehyde Resin, Camphor, Ethyl Tosylamide, Xylene, Triphenyl Phosphate (TPP), MEHQ/HQ, MIT, Parabens, Animal Derived Ingredients or Gluten.Explore the entire range of Nail Polish available on Nykaa. Shop more Orly products here.You can browse through the complete world of Orly Nail Polish .Alternatively, you can also find many more products from the Orly Breathable Treatment + Color Nail Lacquer range.MRP: 1220 Country of Origin: United States of America (the)Name of Mfg / Importer / Brand: NAIL LOUNGEAddress of Mfg / Importer / Brand: 202, SONATA APRTMENT, PERRY CROSS ROAD,BANDRA WEST,MUMBAI-400050,MAHARASTRA",
         "details_image": [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/n/y/nykorl0000113.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje2.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/n/y/nykorl0000113a.jpg"
             }
         ]
     },
     {
         "id": 63,
-        "name": "Avon",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG",
-        "raiting": 4.2,
-        "Price": 130,
+        "name": "Nykaa Gold Rush Nail Lacquer - Flicker Gold 114",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_1.jpg",
+        "raiting": 4.5,
+        "Price": 199,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "Introducing",
-        "details_image": [
+        "Description": "Glam up your nails with Nykaa's Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover.Reasons To Love Long Lasting Colour Rich Pigment One Stroke ApplicationHow to apply shade chart Complete the look Explore the entire range of Nail Polish available on Nykaa. Shop more Nykaa Cosmetics products here.You can browse through the complete world of Nykaa Cosmetics Nail Polish .Alternatively, you can also find many more products from the Nykaa Gold Rush Nail Lacquer range.MRP: 249 Country of Origin: IndiaName of Mfg / Importer / Brand: FSN E-CommerceAddress of Mfg / Importer / Brand: FSN E-Commerce, Mumbai",
+       "details_image": [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_1.jpg"
             },
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Products/oje3.PNG"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_3.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_5.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_4.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114_2.jpg"
+            },
+            {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/f/l/flicker-gold---114.jpg"
             }
         ]
     },
