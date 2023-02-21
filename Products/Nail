@@ -64,16 +64,28 @@
     },
     {
         "id": 94,
-        "name": "Nail",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg",
-        "raiting": 4.2,
-        "Price": 130,
+        "name": "Kay Beauty Nail Nourish Nail Enamel Polish - Wine Berry 30",
+        "products_img":"https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/4/d41cf5f8904330901292_1.jpg||||",
+    "raiting": 4.2,
+        "Price": 191,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "",
-        "details_image": [
+        "Description": "Kay Beauty Nail Nourish Nail Lacquer is a unique nail enamel that not just coats your nails in a luxurious, lustrous shine but the treatment-nourished formula also helps keep your nails happy and hydrated. The super hydrating Lemon peel water, rich in Calcium and Vitamin C prevents the nails from chipping and yellowing, while the miraculous Avocado oil, rich in antioxidants and Vitamin E improves the overall condition of your nails. The super enriching formulation dries within minutes and gives you the best gel like finish in just 2 coats! It comes in 36 shades of fresh pastels, raw nudes and vibrant hues, so you have different shades to express how you feel. Reason to love?Formulated In Europe Rich Gel Effect & Glossy Finish In 2 Coats Infused With Avocado Oil & Lemon Peel Water For Nail Nourishment Quick Air Drying Patented 2-Fold Plasticizer To Prevent Chipping 4-Free Formula Explore the entire range of Nail Polish available on Nykaa. Shop more Kay Beauty products here.You can browse through the complete world of Kay Beauty Nail Polish .Alternatively, you can also find many more products from the Kay Beauty Nail Nourish Nail Enamel Polish range.MRP: 225 Country of Origin: IndiaName of Mfg / Importer / Brand: NYKAA-KK BEAUTY PRIVATE LTDAddress of Mfg / Importer / Brand: NYKAA-KK BEAUTY PRIVATE LTD, Mumbai",
+       "details_image": [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/9.jpg"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/4/d41cf5f8904330901292_1.jpg"
+            },
+             {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/4/d41cf5f8904330901292_2.jpg"
+            },
+             {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/4/d41cf5f8904330901292_3.jpg"
+            },
+             {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/h/a/handswatch_kay_wine-berry.jpg"
+            },
+             {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/k/a/kaybeauty_nail_laquer_redsmodel_1_1.jpg"
             }
         ]
     }
