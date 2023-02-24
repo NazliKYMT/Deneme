@@ -11,10 +11,10 @@
         "details_image":
               [
                 {
-                    "img1": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                    "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
                 },
                 {
-                    "img2": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+                    "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
                 }
         ]
     } ,
