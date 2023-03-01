@@ -26,5 +26,13 @@
     {
         "categories": "Parfum",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+    },
+    {
+        "categories": "Tools",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+    },
+    {
+        "categories": "Skin",
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
     }
 ]
