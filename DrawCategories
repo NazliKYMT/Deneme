@@ -1,38 +1,47 @@
 [
     {
+        "id": "1",
         "categories": "Lipstick",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/ruj.png"
     },
     {
+        "id": "2",
         "categories": "Mascara",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
     },
     {
+        "id": "3",
         "categories": "Eyeshadow",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
     },
     {
+        "id": "4",
         "categories": "Foundation",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
     },
     {
+        "id": "5",
         "categories": "Blush",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG"
     },
     {
-        "categories": "Nail",
+        "id": "6",
+       "categories": "Nail",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG"
     },
     {
-        "categories": "Parfum",
+        "id": "7",
+       "categories": "Parfum",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
     },
     {
+       "id": "8",
         "categories": "Tools",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
     },
     {
-        "categories": "Skin",
+        "id": "9",
+       "categories": "Skin",
         "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
     }
 ]
