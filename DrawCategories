@@ -7,41 +7,41 @@
     {
         "id": "2",
         "categories": "Mascara",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/mascara.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/mascara.jpg"
     },
     {
         "id": "3",
         "categories": "Eyeshadow",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/eyeshadow.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/eyeshadow.jpg"
     },
     {
         "id": "4",
         "categories": "Foundation",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/foundation.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/foundation.jpg"
     },
     {
         "id": "5",
         "categories": "Blush",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/eyeshadow.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/blusher.jpg"
     },
     {
         "id": "6",
        "categories": "Nail",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/nails.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/nails.jpg"
     },
     {
         "id": "7",
        "categories": "Parfum",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/parfum.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/parfum.jpg"
     },
     {
        "id": "8",
         "categories": "Tools",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/tools.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/tools.jpg"
     },
     {
         "id": "9",
        "categories": "Skin",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/skin.jpg"
+        "images": "https://github.com/NazliKYMT/Deneme/blob/main/DrawListe/skin.jpg"
     }
 ]
