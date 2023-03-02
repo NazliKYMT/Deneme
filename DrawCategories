@@ -12,36 +12,36 @@
     {
         "id": "3",
         "categories": "Eyeshadow",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/eyeshadow.jpg"
     },
     {
         "id": "4",
         "categories": "Foundation",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/foundation.jpg"
     },
     {
         "id": "5",
         "categories": "Blush",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/blusher.jpg"
     },
     {
         "id": "6",
        "categories": "Nail",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nail.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/nails.jpg"
     },
     {
         "id": "7",
        "categories": "Parfum",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.jpg"
     },
     {
        "id": "8",
         "categories": "Tools",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/tools.jpg"
     },
     {
         "id": "9",
        "categories": "Skin",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/parfum.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/skin.jpg"
     }
 ]
