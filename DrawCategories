@@ -2,12 +2,12 @@
     {
         "id": "1",
         "categories": "Lipstick",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/ruj.png"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/ruj.jpg"
     },
     {
         "id": "2",
         "categories": "Mascara",
-        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Categories/mascara.PNG"
+        "images": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/DrawListe/mascara.jpg"
     },
     {
         "id": "3",
