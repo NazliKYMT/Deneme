@@ -1,16 +1,19 @@
 [
    {
         "id": 92,
-        "name": "Skin Serum",
-        "products_img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg",
-        "raiting": 4.0,
-        "Price": 100,
+        "name": "Garnier Skin Naturals Sakura White Face Serum Sheet Mask",
+        "products_img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/9/6970175253652a_1.jpg",
+        "raiting": 4.4,
+        "Price": 99,
         "HomeFavories": 0,
         "Favories": true,
-        "Description": "",
+        "Description": "Explore the entire range of Sheet Masks available on Nykaa. Shop more Garnier products here.You can browse through the complete world of Garnier Sheet Masks .Alternatively, you can also find many more products from the Garnier Skin Naturals Face Serum Sheet Mask range.MRP: 99 Country of Origin: China",
         "details_image": [
             {
-                "img": "https://raw.githubusercontent.com/NazliKYMT/Deneme/main/Favorite/3.jpg"
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/9/6970175253652a_1.jpg"
+            },
+               {
+                "img": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/6/9/6970175253652a_2.jpg"
             }
         ]
     }
